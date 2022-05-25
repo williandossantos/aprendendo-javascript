@@ -1,0 +1,3 @@
+
+
+## Exercicio com variaveis
